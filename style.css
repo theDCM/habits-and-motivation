@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #c5ff60;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #c5ff60;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Стили для списка котиков */
+  .cat-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cat-item {
+    margin-bottom: 20px;
+  }
+  
+  .cat-item img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+  }
+  .imaga {
+    width: 200px;
+  }
+  .imaga:hover {
+    width: 400px;
+  }
+  body {
+    background-color: #d5fcffdb;
+  }
+  
+.es {
+  width: 800px;
+  height: auto;
+  border-radius: 5px;
+  margin: auto;
+  left: 50%;
+  top: 50%;
+
+}
